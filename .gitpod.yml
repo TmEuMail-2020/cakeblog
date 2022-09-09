@@ -3,7 +3,7 @@
 # 1) composer.json NOT needed to do composer install to make app/Console/cake work
 ## -- END --
 
-image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1662756447 
+image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1662763420
 tasks:
   - init: |
       composer install
