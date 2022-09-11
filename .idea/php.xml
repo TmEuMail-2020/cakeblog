@@ -30,6 +30,11 @@
       <path value="$PROJECT_DIR$/lib" />
     </include_path>
   </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="a56299c6-d9fa-4413-a30e-570a086a4a86" name="localhost" port="8765" />
+    </servers>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
