@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EgPGoOot2WRpsheDTh38TvpaPj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -90,6 +93,8 @@
       <workItem from="1662719810855" duration="928000" />
       <workItem from="1662894555677" duration="1113000" />
       <workItem from="1662898441445" duration="681000" />
+      <workItem from="1663013644231" duration="1117000" />
+      <workItem from="1663016560326" duration="282000" />
     </task>
     <servers />
   </component>

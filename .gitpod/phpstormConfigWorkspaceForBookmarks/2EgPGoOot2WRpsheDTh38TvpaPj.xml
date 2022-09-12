@@ -1,0 +1,170 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0591c515-fe86-4070-bd1b-8d0b642231f4/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c0278c5b-b992-4054-bc4d-359a6aae649a/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mock:///DiffPreview">
+          <provider selected="true" editor-type-id="BackendDiffFileEditorProvider" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1663014888578" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1663014784819" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1663014878974" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zz</find>
+    </findStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="untitled1-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1522000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18776041" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.22734375" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.4997396" side_tool="true" visible="true" weight="0.33043033" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Code Notes" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.5002604" visible="true" weight="0.33043033" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="SonarLint" order="5" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="make" order="5" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Event Log</value>
+      <value>Database</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1345" y="515" key="#PHP" timestamp="1663015410875">
+      <screen x="612" y="352" width="1920" height="976" />
+    </state>
+    <state x="1345" y="515" key="#PHP/612.352.1920.976@612.352.1920.976" timestamp="1663015410875" />
+    <state x="698" y="681" width="1040" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1663015461736">
+      <screen x="612" y="352" width="1920" height="976" />
+    </state>
+    <state x="698" y="681" width="1040" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog/612.352.1920.976@612.352.1920.976" timestamp="1663015461736" />
+    <state x="1360" y="604" key="FileChooserDialogImpl" timestamp="1663014855365">
+      <screen x="612" y="352" width="1920" height="976" />
+    </state>
+    <state x="1360" y="604" key="FileChooserDialogImpl/612.352.1920.976@612.352.1920.976" timestamp="1663014855365" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0591c515-fe86-4070-bd1b-8d0b642231f4/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c0278c5b-b992-4054-bc4d-359a6aae649a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

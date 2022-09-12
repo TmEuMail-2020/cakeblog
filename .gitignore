@@ -16,7 +16,9 @@
 /.project
 /.buildpath
 /.settings/
-
+/.idea/sonarlint
+# custom image might accidentally added vim's swp file, now ignore
+/.gitpod/phpstormConfigWorkspaceForBookmarks/*.swp
 # OS generated files #
 ######################
 .DS_Store
