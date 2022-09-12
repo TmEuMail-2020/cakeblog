@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-
+//phpcs:disable PSR1.Classes.ClassDeclaration.MissingNamespace -- legacy cakephp2 code, cake comes from lib folder - not PSR12 compliant
 class PostsController extends AppController
 {
     public $helpers = ['Html', 'Form', 'Flash'];

@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 /**
  * Application level Controller
  *
@@ -27,8 +29,10 @@ App::uses('Controller', 'Controller');
  * Add your application-wide methods in the class below, your controllers
  * will inherit them.
  *
- * @package		app.Controller
- * @link		https://book.cakephp.org/2.0/en/controllers.html#the-app-controller
+ * @package     app.Controller
+ * @link        https://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
-class AppController extends Controller {
+//phpcs:disable PSR1.Classes.ClassDeclaration.MissingNamespace -- legacy cakephp2 code, cake comes from lib folder - not PSR12 compliant
+class AppController extends Controller
+{
 }

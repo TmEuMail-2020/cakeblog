@@ -30,7 +30,7 @@ App::uses('AppController', 'Controller');
  * @package       app.Controller
  * @link https://book.cakephp.org/2.0/en/controllers/pages-controller.html
  */
-//phpcs:ignore
+//phpcs:disable PSR1.Classes.ClassDeclaration.MissingNamespace -- legacy cakephp2 code, cake comes from lib folder - not PSR12 compliant
 class PagesController extends AppController
 {
     /**
