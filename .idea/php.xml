@@ -12,22 +12,41 @@
   </component>
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="$PROJECT_DIR$/vendors/squizlabs/php_codesniffer" />
-      <path value="$PROJECT_DIR$/vendors/composer" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/php-code-coverage" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit-mock-objects" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/vendors/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/vendors/symfony/yaml" />
-      <path value="$PROJECT_DIR$/vendors/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/lib" />
       <path value="$PROJECT_DIR$/vendors/cakephp/cakephp-codesniffer" />
       <path value="$PROJECT_DIR$/vendors/slevomat/coding-standard" />
       <path value="$PROJECT_DIR$/vendors/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendors/composer" />
+      <path value="$PROJECT_DIR$/vendors/squizlabs/php_codesniffer" />
       <path value="$PROJECT_DIR$/vendors/dealerdirect/phpcodesniffer-composer-installer" />
-      <path value="$PROJECT_DIR$/lib" />
+      <path value="$PROJECT_DIR$/vendors/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendors/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendors/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendors/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendors/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendors/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendors/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-invoker" />
     </include_path>
   </component>
   <component name="PhpProjectServersManager">
@@ -45,7 +64,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendors/autoload.php" />
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendors/autoload.php" phpunit_phar_path="$PROJECT_DIR$/phpunit.phar" />
     </phpunit_settings>
   </component>
   <component name="Psalm">
