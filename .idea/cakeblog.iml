@@ -16,6 +16,10 @@
       <excludeFolder url="file://$MODULE_DIR$/vendors/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/vendors/symfony/polyfill-ctype" />
       <excludeFolder url="file://$MODULE_DIR$/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint" />
+      <excludeFolder url="file://$MODULE_DIR$/app/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/vendors" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
