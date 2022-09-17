@@ -47,6 +47,13 @@
       <path value="$PROJECT_DIR$/vendors/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendors/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendors/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendors/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendors/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendors/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/reflection-common" />
     </include_path>
   </component>
   <component name="PhpProjectServersManager">

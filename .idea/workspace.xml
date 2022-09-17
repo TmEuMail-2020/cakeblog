@@ -6,16 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" name="Changes" comment="(WIP) try adding test">
       <change beforePath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cakeblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cakeblog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostsControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/PostsControllerTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
-    <list id="eaf07380-d441-4351-a0b5-a47049ca16b9" name=".idea changes" comment=".idea changes">
-      <change beforePath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" afterDir="false" />
-    </list>
+    <list id="eaf07380-d441-4351-a0b5-a47049ca16b9" name=".idea changes" comment=".idea changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,64 +31,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml">
-      <ranges>
-        <range start1="7" end1="7" start2="7" end2="14" changelist="eaf07380-d441-4351-a0b5-a47049ca16b9" />
-        <range start1="41" end1="42" start2="48" end2="65" changelist="eaf07380-d441-4351-a0b5-a47049ca16b9" />
-        <range start1="45" end1="102" start2="68" end2="146" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="105" end1="106" start2="149" end2="150" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="108" end1="109" start2="152" end2="153" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="111" end1="112" start2="155" end2="159" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="114" end1="115" start2="161" end2="162" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="117" end1="118" start2="164" end2="165" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="122" end1="122" start2="169" end2="186" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="125" end1="126" start2="189" end2="189" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="127" end1="127" start2="190" end2="195" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="139" end1="140" start2="207" end2="218" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="145" end1="146" start2="223" end2="224" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="149" end1="150" start2="227" end2="228" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="154" end1="155" start2="232" end2="233" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="156" end1="158" start2="234" end2="236" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="159" end1="160" start2="237" end2="238" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="162" end1="163" start2="240" end2="241" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="170" end1="171" start2="248" end2="249" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="176" end1="178" start2="254" end2="256" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="183" end1="184" start2="261" end2="262" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="185" end1="187" start2="263" end2="265" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="191" end1="192" start2="269" end2="270" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="194" end1="195" start2="272" end2="273" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="199" end1="200" start2="277" end2="278" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="205" end1="207" start2="283" end2="285" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="212" end1="212" start2="290" end2="291" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="213" end1="216" start2="292" end2="292" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="217" end1="218" start2="293" end2="294" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="219" end1="219" start2="295" end2="299" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="227" end1="229" start2="307" end2="309" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="230" end1="230" start2="310" end2="311" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="243" end1="245" start2="324" end2="326" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="246" end1="246" start2="327" end2="328" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="251" end1="253" start2="333" end2="339" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="255" end1="255" start2="341" end2="343" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="256" end1="258" start2="344" end2="358" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="259" end1="259" start2="359" end2="360" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="264" end1="266" start2="365" end2="367" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="267" end1="267" start2="368" end2="369" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="268" end1="268" start2="370" end2="386" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="272" end1="274" start2="390" end2="392" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="276" end1="276" start2="394" end2="395" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="281" end1="285" start2="400" end2="413" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="292" end1="292" start2="420" end2="488" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="298" end1="299" start2="494" end2="495" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="302" end1="303" start2="498" end2="499" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="304" end1="306" start2="500" end2="502" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="309" end1="311" start2="505" end2="511" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="312" end1="314" start2="512" end2="518" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="315" end1="316" start2="519" end2="527" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-        <range start1="317" end1="319" start2="528" end2="537" changelist="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -145,6 +81,13 @@
       <path value="$PROJECT_DIR$/vendors/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendors/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendors/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendors/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendors/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendors/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendors/phpdocumentor/reflection-common" />
     </include_path>
   </component>
   <component name="ProjectId" id="2EWStsMKC4k9qh57WZiTpPETKFz" />
@@ -166,7 +109,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="PHPUnit.PostsControllerTest.testView">
@@ -202,6 +145,7 @@
       <workItem from="1663013644231" duration="1117000" />
       <workItem from="1663016560326" duration="282000" />
       <workItem from="1663017368958" duration="4814000" />
+      <workItem from="1663397266436" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="(fix) exclude folder base on git ignore - cakeblog.iml">
       <created>1663018475016</created>

@@ -39,86 +39,54 @@
     <select />
   </component>
   <component name="DatabaseView">
-    <expand />
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - @localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - @localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cake: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - @localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cake: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 1 table (host: schema cake)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - @localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Server Objects (host: root &lt;unnamed&gt;)" type="d9a67e58:DvTreeLayoutLayer$AuxiliaryGroup" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/51c46d93-c3f2-423b-9a04-1880e9289880/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Controller/CategoriesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="DIFF">
-      <summary usageCount="2" lastUsed="1663016618578" />
+      <summary usageCount="3" lastUsed="1663397796147" />
     </fileType>
     <fileType name="Database Element">
-      <summary usageCount="1" lastUsed="1662722116275" />
+      <summary usageCount="2" lastUsed="1663398524211" />
     </fileType>
     <fileType name="GitIgnore file">
-      <summary usageCount="1" lastUsed="1663016657581" />
+      <summary usageCount="2" lastUsed="1663397264549" />
     </fileType>
     <fileType name="Markdown">
-      <summary usageCount="4" lastUsed="1663015793309" />
+      <summary usageCount="5" lastUsed="1663397264483" />
     </fileType>
     <fileType name="PHP">
-      <summary usageCount="12" lastUsed="1663015794439" />
+      <summary usageCount="17" lastUsed="1663397749980" />
     </fileType>
     <fileType name="SQL">
-      <summary usageCount="2" lastUsed="1663016763144" />
+      <summary usageCount="3" lastUsed="1663398501013" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1663397784059" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -137,30 +105,35 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="TerminalArrangementManager">
-    <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cakeblog-history" />
-    </option>
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PostsControllerTest_testView - 2022.09.17 at 06h 56m 02s.xml">
+      <configuration name="PostsControllerTest.testView" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PostsControllerTest_testView - 2022.09.17 at 06h 56m 05s.xml">
+      <configuration name="PostsControllerTest.testView" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4981000" />
+    <option name="totallyTimeSpent" value="6537000" />
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.083593756" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50108224" weight="0.083680555" />
       <window_info id="Structure" order="1" side_tool="true" />
-      <window_info id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.18567708" />
-      <window_info id="Commit" order="3" visible="true" weight="0.18567708" />
+      <window_info id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.1857639" />
+      <window_info id="Commit" order="3" visible="true" weight="0.1857639" />
       <window_info id="Pull Requests" order="4" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32977387" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.33043033" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33103016" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Problems View" order="6" weight="0.33043033" />
@@ -168,55 +141,27 @@
       <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="File Transfer" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33043033" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33103016" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="13" />
       <window_info anchor="bottom" id="GraphQL" order="14" />
       <window_info anchor="bottom" id="Flow" order="15" />
       <window_info anchor="bottom" id="Services" order="16" />
       <window_info anchor="bottom" id="SonarLint" order="17" />
-      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.22630209" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.22604167" />
       <window_info anchor="right" id="make" order="1" side_tool="true" />
       <window_info anchor="right" id="Tree Of Usages" order="2" />
       <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083593756" />
-      <window_info id="Structure" order="1" side_tool="true" />
-      <window_info id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.083593756" />
-      <window_info id="Commit" order="3" weight="0.32994792" />
-      <window_info id="Pull Requests" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Problems View" order="6" visible="true" weight="0.33043033" />
-      <window_info anchor="bottom" id="Code Notes" order="7" />
-      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="File Transfer" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33043033" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="13" />
-      <window_info anchor="bottom" id="GraphQL" order="14" />
-      <window_info anchor="bottom" id="Flow" order="15" />
-      <window_info anchor="bottom" id="Services" order="16" />
-      <window_info anchor="bottom" id="SonarLint" order="17" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="make" order="1" side_tool="true" />
-      <window_info anchor="right" id="Tree Of Usages" order="2" />
-      <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
-    </layout-to-restore>
     <recentWindows>
-      <value>Commit</value>
       <value>Database</value>
+      <value>Event Log</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Run</value>
       <value>Bookmarks</value>
       <value>Project</value>
-      <value>Run</value>
       <value>Problems View</value>
-      <value>Terminal</value>
     </recentWindows>
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
@@ -249,40 +194,75 @@
       <screen x="852" y="497" width="1920" height="976" />
     </state>
     <state x="1400" y="658" key="#Psalm/852.497.1920.976@852.497.1920.976" timestamp="1662720736650" />
-    <state x="752" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1663016762116">
-      <screen x="192" y="184" width="1920" height="976" />
+    <state x="1032" y="486" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1663398227571">
+      <screen x="612" y="352" width="1440" height="796" />
     </state>
     <state x="752" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog/192.184.1920.976@192.184.1920.976" timestamp="1663016762116" />
+    <state x="1032" y="486" key="#com.intellij.execution.impl.EditConfigurationsDialog/612.352.1440.796@612.352.1440.796" timestamp="1663398227571" />
     <state x="1412" y="661" key="#com.intellij.execution.impl.EditConfigurationsDialog/852.497.1920.976@852.497.1920.976" timestamp="1662722082438" />
-    <state x="1609" y="632" key="FileChooserDialogImpl" timestamp="1662720936740">
-      <screen x="852" y="497" width="1920" height="976" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1663398823107">
+      <screen x="612" y="352" width="1440" height="796" />
     </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/612.352.1440.796@612.352.1440.796" timestamp="1663398823107" />
+    <state x="1180" y="462" key="FileChooserDialogImpl" timestamp="1663398077210">
+      <screen x="612" y="352" width="1440" height="796" />
+    </state>
+    <state x="1180" y="462" key="FileChooserDialogImpl/612.352.1440.796@612.352.1440.796" timestamp="1663398077210" />
     <state x="1609" y="632" key="FileChooserDialogImpl/852.497.1920.976@852.497.1920.976" timestamp="1662720936740" />
+    <state width="1440" height="235" key="GridCell.Tab.0.bottom" timestamp="1663398828977">
+      <screen x="612" y="352" width="1440" height="796" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.bottom/612.352.1440.796@612.352.1440.796" timestamp="1663398828977" />
+    <state width="1440" height="235" key="GridCell.Tab.0.center" timestamp="1663398828977">
+      <screen x="612" y="352" width="1440" height="796" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.center/612.352.1440.796@612.352.1440.796" timestamp="1663398828977" />
+    <state width="1440" height="235" key="GridCell.Tab.0.left" timestamp="1663398828977">
+      <screen x="612" y="352" width="1440" height="796" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.left/612.352.1440.796@612.352.1440.796" timestamp="1663398828977" />
+    <state width="1440" height="235" key="GridCell.Tab.0.right" timestamp="1663398828977">
+      <screen x="612" y="352" width="1440" height="796" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.right/612.352.1440.796@612.352.1440.796" timestamp="1663398828977" />
     <state x="931" y="401" key="RollbackChangesDialog" timestamp="1663016802274">
       <screen x="192" y="184" width="1920" height="976" />
     </state>
     <state x="931" y="401" key="RollbackChangesDialog/192.184.1920.976@192.184.1920.976" timestamp="1663016802274" />
-    <state x="1321" y="635" key="SettingsEditor" timestamp="1662722784793">
-      <screen x="852" y="497" width="1920" height="976" />
+    <state x="964" y="448" key="SettingsEditor" timestamp="1663398793454">
+      <screen x="612" y="352" width="1440" height="796" />
     </state>
+    <state x="964" y="448" key="SettingsEditor/612.352.1440.796@612.352.1440.796" timestamp="1663398793454" />
     <state x="1321" y="635" key="SettingsEditor/852.497.1920.976@852.497.1920.976" timestamp="1662722784793" />
     <state x="1476" y="497" key="run.anything.popup" timestamp="1662720809427">
       <screen x="852" y="497" width="1920" height="976" />
     </state>
     <state x="1476" y="497" key="run.anything.popup/852.497.1920.976@852.497.1920.976" timestamp="1662720809427" />
-    <state x="815" y="397" width="672" height="685" key="search.everywhere.popup" timestamp="1663016657602">
-      <screen x="192" y="184" width="1920" height="976" />
+    <state x="1079" y="526" width="672" height="559" key="search.everywhere.popup" timestamp="1663398524462">
+      <screen x="612" y="352" width="1440" height="796" />
     </state>
     <state x="815" y="397" width="672" height="685" key="search.everywhere.popup/192.184.1920.976@192.184.1920.976" timestamp="1663016657602" />
+    <state x="1079" y="526" width="672" height="559" key="search.everywhere.popup/612.352.1440.796@612.352.1440.796" timestamp="1663398524462" />
     <state x="1475" y="710" width="672" height="685" key="search.everywhere.popup/852.497.1920.976@852.497.1920.976" timestamp="1662722148008" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4ac518e-a1d8-4f01-b75f-02d1873abbdf/console.sql" />
     <entry file="das://d4ac518e-a1d8-4f01-b75f-02d1873abbdf/schema/cake/table/posts" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/51c46d93-c3f2-423b-9a04-1880e9289880/console.sql" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="101">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -293,30 +273,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="629">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/51c46d93-c3f2-423b-9a04-1880e9289880/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        <state relative-caret-position="388">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://51c46d93-c3f2-423b-9a04-1880e9289880/schema/cake/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1663398522992" presentationMode="TABLE" projectRestartId="2b9556ab-e0b0-485b-b700-428e30a73723" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Config/Schema/db_acl.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
