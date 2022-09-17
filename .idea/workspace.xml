@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f6a27e61-8dfb-4ff3-8bde-1d255ca8d4a4" name="Changes" comment="(WIP) try adding test">
       <change beforePath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod/phpstormConfigWorkspaceForBookmarks/2EWStsMKC4k9qh57WZiTpPETKFz.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <list id="eaf07380-d441-4351-a0b5-a47049ca16b9" name=".idea changes" comment=".idea changes" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +109,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="PHPUnit.PostsControllerTest.testView">
@@ -146,6 +146,7 @@
       <workItem from="1663016560326" duration="282000" />
       <workItem from="1663017368958" duration="4814000" />
       <workItem from="1663397266436" duration="1556000" />
+      <workItem from="1663422069991" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="(fix) exclude folder base on git ignore - cakeblog.iml">
       <created>1663018475016</created>
