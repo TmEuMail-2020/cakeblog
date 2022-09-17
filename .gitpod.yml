@@ -19,3 +19,5 @@ ports:
   - port: 8765
     onOpen: open-preview
     visibility: private
+  - port: 3306
+    onOpen: ignore
